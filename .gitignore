@@ -1,0 +1,10 @@
+# Publish only the reviewed source files. Account data stays local.
+*
+!.gitignore
+!README.md
+!LICENSE
+!workbuddy_transfer.py
+!workbuddy-transfer.cmd
+!tests/
+!tests/test_workbuddy_transfer.py
+
